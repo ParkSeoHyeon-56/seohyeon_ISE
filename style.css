@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2575.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  </style>
+</head>
+<body>
+<p class="p1">body {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>font-family: Arial, sans-serif;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>background-color: #ffffff;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>margin: 0;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>padding: 0;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">table {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>border-collapse: collapse;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>width: 900px;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>margin: 0 auto;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>min-height: 600px;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>background-color: white;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">td {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>padding: 10px;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>vertical-align: top;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.header {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>background-color: #87c9b3;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>text-align: center;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>color: white;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>font-size: 32px;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>font-weight: bold;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.bar {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>background-color: #e6fef9;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>text-align: center;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>font-size: 20px;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>font-weight: bold;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.bar a {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>text-decoration: none;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>color: black;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>padding: 0 10px;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.bar a:hover {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>color: #3498db;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.sidebar-left {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>background-color: #faf9c1;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>width: 200px;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.main-content {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>background-color: #e1fac1;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>width: 500px;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.sidebar-right {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>background-color: #c1fae0;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>width: 200px;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.footer {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>background-color: #5c9381;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>text-align: center;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>color: white;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>font-size: 20px;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>font-weight: bold;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">.about-image {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>margin-top: 10px;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>width: 300px;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">input[type="text"],</p>
+<p class="p1">input[type="email"],</p>
+<p class="p1">textarea {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>width: 90%;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>padding: 5px;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>margin: 5px 0;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>box-sizing: border-box;</p>
+<p class="p1">}</p>
+<p class="p2"><br></p>
+<p class="p1">input[type="submit"],</p>
+<p class="p1">input[type="reset"] {</p>
+<p class="p1"><span class="Apple-converted-space">  </span>padding: 5px 15px;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>margin-top: 5px;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>cursor: pointer;</p>
+<p class="p1">}</p>
+</body>
+</html>
